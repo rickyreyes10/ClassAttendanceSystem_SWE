@@ -1,0 +1,4 @@
+Course Name: intro to robitics
+CRN: 12323
+Email: johndoe23@gmail.com
+Password: 8f7abc84792bdbf2d8cb38c30ec7eef1d5ce7898548aa157eedf818cff1bf7ef

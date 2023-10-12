@@ -1,0 +1,4 @@
+Course Name: intro to buisness
+CRN: 12929
+Email: johndoe223@gmail.com
+Password: 6fe0ae67e63c2d6e429cab1e050eb8113e8ea5c7a3d74106d0652e02d89e272c

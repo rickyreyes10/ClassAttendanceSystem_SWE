@@ -1,0 +1,4 @@
+Course Name: intro to python programmin
+CRN: 12233
+Email: jondoe21@gmail.com
+Password: 661a0ef7cb1fb70a09e9b9952c80f7194f53180a1982bad15f705a15ae7241d7
